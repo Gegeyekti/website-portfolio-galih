@@ -49,7 +49,7 @@ export default function Hero() {
             {/* SIGNATURE BACKGROUND */}
             <div className="pointer-events-none absolute -top-10 left-0 w-[420px] opacity-20">
               <Image
-                src="/signature.png"
+                src="/logo/signature.png"
                 alt="Signature"
                 width={800}
                 height={300}
@@ -87,7 +87,7 @@ export default function Hero() {
             "
           >
             <Image
-              src="/galih.png"
+              src="/logo/galih.png"
               alt="Portrait"
               fill
               className="object-cover grayscale contrast-125"
