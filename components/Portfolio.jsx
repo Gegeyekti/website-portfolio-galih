@@ -18,14 +18,14 @@ const projects = [
   {
     title: "Digital Clock",
     tech: "React • Javascript",
-    image: "/portfolio/digitalclock.png",
+    image: "/portfolio/digitalclock.PNG",
     desc: "Digital Clock is a beginner-level React project created to practice fundamental concepts such as component-based architecture, state management, and real-time data rendering using JavaScript. This project marks my first experience working with the React library. ",
     url: "https://galihyekti-digitalclock-react.vercel.app/",
   },
   {
     title: "Warungku",
     tech: "HTML • CSS • BootStrap",
-    image: "/portfolio/warungku.png",
+    image: "/portfolio/warungku.PNG",
     desc: "I try to built a profile website for a small business (UMKM) using Bootstrap. The project emphasizes responsive design, clear content structure, and a clean user interface suitable for small business needs. ",
     url: "https://profile-toko.vercel.app/",
   },
