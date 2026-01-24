@@ -146,7 +146,7 @@ export default function Contact() {
               <a
                 href="https://www.tiktok.com/@buggazi"
                 target="_blank"
-                className="transition hover:scale-110"
+                className="transition hover:scale-110 hover:text-gray-800"
               >
                 <TiktokLogoIcon size={44} />
               </a>

@@ -7,22 +7,22 @@ import { XSquareIcon } from "@phosphor-icons/react";
 const certificates = [
   {
     title: "English",
-    image: "/certi/english.png",
+    image: "/certi/english.PNG",
     link: "https://drive.google.com/file/d/1xgk9LFfcnlMXjSgypDAnycpYXwXXZFkW/view?usp=drive_link",
   },
   {
     title: "Microsoft Office",
-    image: "/certi/microsoft.png",
+    image: "/certi/microsoft.PNG",
     link: "https://drive.google.com/file/d/1lLk0dwcGv0wWzCCpIh3t7waQC4QbL3_O/view?usp=drive_link",
   },
   {
     title: "Red Hat By Red Hat Academy",
-    image: "/certi/redhat.png",
+    image: "/certi/redhat.PNG",
     link: "https://drive.google.com/file/d/1YlGA2avnqK3tqCztUFxPUm2CnK23pql8/view?usp=drive_link",
   },
   {
     title: "Coding Camp Software Engineer By RevoU",
-    image: "/certi/SE.png",
+    image: "/certi/SE.PNG",
     link: "https://drive.google.com/file/d/1WVtLPJk_iaKsD86O9Ej-Qdwlsp6KHoSy/view?usp=drive_link",
   },
 ];
