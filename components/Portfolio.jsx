@@ -25,9 +25,16 @@ const projects = [
   {
     title: "Warungku",
     tech: "HTML • CSS • BootStrap",
-    image: "/portfolio/warungku.PNG",
+    image: "/portfolio/warungku_v1.png",
     desc: "I try to built a profile website for a small business (UMKM) using Bootstrap. The project emphasizes responsive design, clear content structure, and a clean user interface suitable for small business needs. ",
     url: "https://profile-toko.vercel.app/",
+  },
+  {
+    title: "Suitmedia | Intern",
+    tech: "NextJs • JavaScript",
+    image: "/portfolio/suitmedia.png",
+    desc: "This website was created as an attempt to complete an internship entrance test, where I explored my abilities in building responsive and functional web applications.",
+    url: "https://suitmedia-frontend-test-one.vercel.app/",
   },
 ];
 
