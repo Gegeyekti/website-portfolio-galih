@@ -115,7 +115,7 @@ export default function About() {
 
           {/* CTA Button */}
           <a
-            href="/cv/CV_GALIH PARLAMBANG YEKTI_V1.pdf"
+            href="/cv/CV_GALIH PARLAMBANG YEKTI_V2.pdf"
             download
             className="mt-6 inline-block px-6 py-3 bg-white text-black font-semibold rounded-lg hover:bg-green-200 transition"
           >

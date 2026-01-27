@@ -7,6 +7,7 @@ import {
   FacebookLogoIcon,
   InstagramLogoIcon,
   TiktokLogoIcon,
+  GithubLogo,
 } from "@phosphor-icons/react";
 
 export default function Contact() {
@@ -149,6 +150,14 @@ export default function Contact() {
                 className="transition hover:scale-110 hover:text-gray-800"
               >
                 <TiktokLogoIcon size={44} />
+              </a>
+
+              <a
+                href="https://github.com/Gegeyekti/"
+                target="_blank"
+                className="transition hover:scale-110 hover:text-gray-800"
+              >
+                <GithubLogo size={44} />
               </a>
             </div>
           </div>
